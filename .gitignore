@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+.venv/
+
+# CSV data files
+*.csv
+
+# And probably the folder where you generate data
+data/
