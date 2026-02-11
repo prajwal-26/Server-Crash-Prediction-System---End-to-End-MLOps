@@ -7,3 +7,6 @@ venv/
 
 # And probably the folder where you generate data
 data/
+
+model/
+.pkl/
